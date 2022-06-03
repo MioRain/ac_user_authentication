@@ -4,6 +4,7 @@
 
 1. 輸入使用者帳戶、密碼
 2. 對比資料庫驗證是否正確
+3. 登入有效時間：60s
 
 ## 環境建置
 - Visual Studio Code
@@ -12,6 +13,7 @@
 - Mongoose(6.3.6) + Mongoose-connect(0.0.3)
 - nodemon(2.0.16)
 - dotenv(16.0.1)
+- uuid(8.3.2)
 
 ## 安裝與執行步驟
 1. 使用終端機(Terminal)下載此專案
